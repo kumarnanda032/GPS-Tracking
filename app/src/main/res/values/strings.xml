@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GPS Tracking</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="my_map_api_key">AIzaSyA0IxARCLRdBOU2iLpFW4UdptBx7w7odd4</string>
+
+
+</resources>
